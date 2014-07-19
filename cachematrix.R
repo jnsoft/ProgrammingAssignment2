@@ -6,6 +6,7 @@
 ## a special "matrix". If the cache is empty, it calculates the inverse and stores it 
 ## in the cache before returning the inverse. 
 
+
 ## makeCacheMatrix creates a special "matrix" object
 
 makeCacheMatrix <- function(x = matrix()) {
